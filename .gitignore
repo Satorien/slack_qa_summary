@@ -1,0 +1,5 @@
+backend/.venv/
+backend/.ruff_cache/
+*.zip
+backend/lambda/*
+!backend/lambda/lambda_function.py
